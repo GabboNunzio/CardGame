@@ -1,4 +1,4 @@
 # CardGame
-#javascript tutorial 
+javascript tutorial 
 
 Gabriele Nuzzo
