@@ -5,6 +5,7 @@ javascript tutorial
 
 
 ciao, questo e un gioco di carte in qui lo scopo del gioco è trovare le coppie uguali, più coppie trovi più accumuli i punti 
+![Immagine 2023-05-02 150011](https://user-images.githubusercontent.com/124572812/235673504-eec29dd1-db9d-4246-bce9-235e6c6c7dbc.png)
 
 
 Gabriele Nuzzo
